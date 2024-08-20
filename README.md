@@ -16,3 +16,4 @@ This project is a basic e-commerce website for digital gadgets, built using HTML
 2.CSS: Styling and layout.
 
 3.JavaScript: Interactive elements and dynamic content.
+![image](https://github.com/user-attachments/assets/9d8629a9-ea7a-4ed1-bd0f-b75089430913)
